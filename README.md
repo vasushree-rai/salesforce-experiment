@@ -1,4 +1,4 @@
-# salesforce-experiment
+
 # Salesforce Apex Email Service Component
 
 A robust, production-ready Salesforce Apex utility class designed to handle email automation. This component supports sending transactional single HTML/Text emails and automates personalized communication utilizing Salesforce Email Templates.
